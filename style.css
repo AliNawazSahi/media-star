@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header {
+    background-color: #e2e8f0;
+}
+
+#main_page_right_container {
+
+    background-color: #e2e8f0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#reporter_registration_left_container,
+#card_download_container,
+#letter_download_container {
+    background: linear-gradient(to right, #ff000094, #001fffcc);
+}
+
+.registration-payment-gif-img {
+    max-width: 50%;
+    margin-bottom: 20px;
+}
+
+.registration-payment-qr-img {
+    max-width: 300px;
+    border-radius: 1.25rem;
+}
+
+#qr_payment_div {
+    border-radius: 10px;
+}
+
+#terms{
+    border: 1px solid #ad8c8c;
+}
